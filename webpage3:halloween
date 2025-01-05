@@ -1,0 +1,82 @@
+<html>
+  <head>
+    
+  </head>
+  
+  <body>
+    <div class="topnav">
+  <a href="#home"><i class="fa fa-fw fa-home"></i>Home</a>
+  <a href="#chemsitry">Chemistry</a>
+  <a class="active"href="#Halloween">Halloween</a>
+  
+</div>  
+    <center>
+    <h3> Halloween App!
+      <br>
+      <br>
+      <br>
+     <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/Vqr5suvs4N9fNiaVB8OFLFwsMGnCu5pogX-zQhp9A-c/embed"></iframe>
+      
+  </body>
+</html>
+<style>
+body {
+  background-color: #95c8fa;
+background-image: url('https://t3.ftcdn.net/jpg/05/33/51/76/360_F_533517669_MBlW0STu3IAHSm7bLCsGeeNIqMxW18l1.jpg');
+  margin: 0;
+  
+h3{
+  color: #025407;
+  font-size: 300%;
+  text-decoration-line: overline underline;
+  text-decoration-thickness: 1;
+  text-decoration-style: double;
+  text-decoration-color:#fafa02
+  line-height: 2.8
+  letter-spacing: 3px;
+  text-shadow: 2px 2px 5px #fafa02;  
+}
+
+img {
+    border: dotted white 7px;
+      width: 20%;
+  }
+
+img:hover {
+  border: dotted #26f5f5 9x;
+    width: 50%
+}
+
+h3:hover {
+  text-decoration-line: underline overline
+  text-decoration-color: #c3e7f9; 
+  text-decoration-thickness: 5;
+  text-decoration-style: dotted;
+}
+.topnav {
+  background-color: #9dd9f2;
+  overflow: hidden;
+}
+
+.topnav a {
+  background-color: #9dd9f2;
+  color:#4973C1;
+  text-shadow: 2px 2px 5px #f8fa8e;
+  float: left;
+  padding: 15px 16px;
+  font-size: 180%;
+}
+
+.topnav a:hover {
+  background-color: #bdddf0;
+  color: #0c6091;
+  border: 4px dotted #4973C1;
+  
+}
+
+.topnav a.active {
+  background-color: #8cd0f5;
+  color: #005abc;
+}
+
+<style>
