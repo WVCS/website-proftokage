@@ -1,0 +1,83 @@
+<html>
+  <head>
+    
+  </head>
+  
+  <body>
+    <div class="topnav">
+  <a href="#home"><i class="fa fa-fw fa-home"></i>Home</a>
+  <a class="active" href="#chemsitry">Chemistry</a>
+  <a href="#Halloween">Halloween</a>
+  
+</div>  
+    <center>
+    <h3> Chemistry/Biology with Professor Avogadro
+      <br>
+    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/mUhLRc3rtPYxQa747lYZOexfySR7VDjB0PXJ12yZgsk/embed?nosource"></iframe>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/pGSkEoMk5BMrEdQ-7pH5mCPRCxQnvGbA9jw416sAZSf/embed?nosource"></iframe>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/iFyCkBvw7YZBs-pjVmOEf1Tsn3tT5TRexWxXt-7AInw/embed?nosource"></iframe>
+        <br>
+        <iframe src="https://scratch.mit.edu/projects/1059665251/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  </body>
+</html>
+<style>
+body {
+  background-color: #95c8fa;
+background-image: url('https://media.istockphoto.com/id/545642886/vector/chemical-seamless-pattern-chemical-laboratory-supplies-seamless-pattern.jpg?s=612x612&w=0&k=20&c=h7QcVbmy60b1Q_pZzPLtNp_AE6m0ocjoji58C3TItPI=');
+  margin: 0;
+  
+h3{
+  color: #005abc;
+  font-size: 300%;
+  text-decoration-line: overline underline;
+  text-decoration-thickness: 1;
+  text-decoration-style: double;
+  text-decoration-color: #c3e7f9;
+  line-height: 2.8
+  letter-spacing: 3px;
+  text-shadow: 2px 2px 5px #30ffff;  
+}
+
+img {
+    border: dotted white 7px;
+      width: 20%;
+  }
+
+img:hover {
+  border: dotted #26f5f5 9x;
+    width: 50%
+}
+
+h3:hover {
+  text-decoration-line: underline overline
+  text-decoration-color: #c3e7f9; 
+  text-decoration-thickness: 5;
+  text-decoration-style: dotted;
+}
+.topnav {
+  background-color: #9dd9f2;
+  overflow: hidden;
+}
+
+.topnav a {
+  background-color: #9dd9f2;
+  color:#4973C1;
+  text-shadow: 2px 2px 5px #f8fa8e;
+  float: left;
+  padding: 15px 16px;
+  font-size: 180%;
+}
+
+.topnav a:hover {
+  background-color: #bdddf0;
+  color: #0c6091;
+  border: 4px dotted #4973C1;
+  
+}
+
+.topnav a.active {
+  background-color: #8cd0f5;
+  color: #005abc;
+}
+
+<style>
